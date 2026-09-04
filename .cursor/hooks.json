@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": "bash .cursor/hooks/fixture-after-file-edit.sh"
+      }
+    ]
+  }
+}

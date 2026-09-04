@@ -1,0 +1,11 @@
+---
+description: Agent-requestable fixture rule FIXTURE-RULE-DESC-5a77; fetch when working on fixture attribution
+alwaysApply: false
+---
+# Agent-requestable fixture rule
+
+FIXTURE-RULE-DESC-BODY-5a77
+
+This rule has a description and no globs, so only its description is listed in
+the agent-requestable workspace rules section. The body is only seen when the
+agent reads this file.

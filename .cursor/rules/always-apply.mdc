@@ -1,0 +1,10 @@
+---
+description: Always-applied fixture rule
+alwaysApply: true
+---
+# Always-applied fixture rule
+
+FIXTURE-RULE-ALWAYS-c4e8
+
+This rule has `alwaysApply: true` and must appear verbatim in the
+always-applied workspace rules section of the first-turn prompt.

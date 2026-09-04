@@ -1,0 +1,11 @@
+---
+description: Glob-scoped fixture rule for TypeScript files
+globs: **/*.ts
+alwaysApply: false
+---
+# TypeScript glob fixture rule
+
+FIXTURE-RULE-GLOB-TS-9d12
+
+This rule is scoped to `**/*.ts`. It is carried in the request context as a
+file-globbed rule and is attached only when a matching file is read or edited.
